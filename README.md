@@ -43,7 +43,7 @@ Make sure you have these installed:
 1. **Clone the repository**
 
 `
-git clone https://github.com/your-username/laravel-ecommerce-cart.git
+https://github.com/Anupthakurrr/newlaravelproject.git
 cd laravel-ecommerce-cart
 
 Install PHP dependencies
